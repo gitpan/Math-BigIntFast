@@ -1,0 +1,16 @@
+                 ==========================================
+                   Package "Math::BigIntFast" Version 6.0
+                 ==========================================
+
+
+                    Copyright (c) 2000 by Steffen Beyer.
+                             All rights reserved.
+
+
+Credits:
+--------
+
+Many thanks to Andreas Koenig <andreas.koenig@anima.de> (PAUSE maintainer)
+for giving his consent to this somewhat unorthodox procedure! ;-)
+
+

@@ -1,0 +1,19 @@
+                 ==========================================
+                   Package "Math::BigIntFast" Version 6.0
+                 ==========================================
+
+
+                    Copyright (c) 2000 by Steffen Beyer.
+                             All rights reserved.
+
+
+Version history:
+----------------
+
+Version 6.0   08.11.2000
+
+ +  First release. The version number reflects the version number of
+    the prerequisite module "Bit::Vector" version 6.0.
+
+----------------------------------------------------------------------------
+

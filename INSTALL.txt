@@ -1,0 +1,41 @@
+                 ==========================================
+                   Package "Math::BigIntFast" Version 6.0
+                 ==========================================
+
+
+                    Copyright (c) 2000 by Steffen Beyer.
+                             All rights reserved.
+
+
+Prerequisites:
+--------------
+
+Perl version 5.000 or higher, module "Bit::Vector" version 6.0
+or better.
+
+
+Preliminary steps for use with ActiveState's port of Perl 5:
+------------------------------------------------------------
+
+Edit the file "Makefile.PL" and remove all of the "#" characters
+which currently comment out the lines involved with the setting
+of the attributes "ABSTRACT", "AUTHOR" and "CAPI".
+
+
+Installation:
+-------------
+
+ - perl Makefile.PL
+ - make
+ - make install
+
+(Or "nmake" or "dmake" instead of "make" under Windows NT.)
+
+
+Better:
+-------
+
+Simply install the module "Bit::Vector" version 6.0 (or newer)
+instead!
+
+
